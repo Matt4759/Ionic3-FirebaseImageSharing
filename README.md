@@ -1,24 +1,24 @@
-Needed for application to work
+## Needed for application to work
 
-# FIREBASE
+## FIREBASE
 `npm install firebase --save`
 
-# CAMERA
+## CAMERA
 `ionic cordova plugin add cordova-plugin-camera`
 
 `npm install --save @ionic-native/camera`
 
-# FILE
+## FILE
 `ionic cordova plugin add cordova-plugin-file`
 
 `npm install --save @ionic-native/file`
 
-# FILEPATH
+## FILEPATH
 `ionic cordova plugin add cordova-plugin-filepath`
 
 `npm install --save @ionic-native/file-path`
 
-# FILECHOOSER
+## FILECHOOSER
 `ionic cordova plugin add cordova-plugin-filechooser`
 
 `npm install --save @ionic-native/file-chooser`
